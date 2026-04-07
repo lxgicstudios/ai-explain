@@ -1,5 +1,5 @@
 {
-  "name": "ai-explain",
+  "name": "@lxgicstudios/ai-explain",
   "version": "1.0.0",
   "description": "Explain any code file in simple, plain English",
   "main": "dist/index.js",
