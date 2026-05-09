@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-explain",
   "version": "1.0.0",
-  "description": "Explain any code file in simple, plain English",
+  "description": "Explain any code file in simple, plain English - AI-powered explain tool with 2025 SEO optimization for developers.",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
@@ -15,33 +15,39 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "claude",
     "cli",
     "code",
     "code-analysis",
+    "comments",
+    "developer-productivity",
     "developer-tools",
+    "discoverability",
     "documentation",
     "education",
-    "explain",
-    "gpt",
-    "learning",
-    "llm",
-    "nodejs",
-    "onboarding",
-    "openai",
-    "typescript",
-    "zero-config"
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-explain#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-explain"
+    "url": "https://github.com/LXGIC-Studios/ai-explain"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-explain/issues"
